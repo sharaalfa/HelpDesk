@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Удалить ресурс &apos;Helpdesk&apos;" deleteContents="false" description="Удалить ресурс &apos;Helpdesk&apos;" element1="/Helpdesk" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1461404417688"/>
+</session>
